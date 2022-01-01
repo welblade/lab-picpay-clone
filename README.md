@@ -1,4 +1,4 @@
-# lab-picpay-clone
+# Lab da DIO de kotlin picpay-clone
 Aplicativo funcional no estilo do PicPay 
 
 ### DESCRIÇÃO
